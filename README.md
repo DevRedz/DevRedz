@@ -1,8 +1,6 @@
 <div align="center">
 
   <!-- 프로필 헤더 및 블로그 링크 -->
-  <h1>👋 안녕하세요!</h1>
-  
   <p>
     <a href="https://devredz.github.io/">
       <img src="https://img.shields.io/badge/GitHub%20Blog-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Blog" />
