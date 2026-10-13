@@ -17,7 +17,7 @@
   <!-- Velog Recent Posts 섹션 -->
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Nib" width="28" height="28" />
-    Velog Recent Posts
+    Recent Posts
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing" width="28" height="28" />
   </h2>
 
