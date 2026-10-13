@@ -1,8 +1,11 @@
+<h2>
+    [Github Blog](https://devredz.github.io/)
+</h2>
 <div align="center">
 
 <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Cyclone" width="30" height="30" />
-    RECENT POST 
+    Velog RECENT POST 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Cyclone" width="30" height="30" />
 </h2>
 
